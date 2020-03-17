@@ -1,0 +1,2 @@
+# OutscalAssignmentCLI
+Assignment using CLI
